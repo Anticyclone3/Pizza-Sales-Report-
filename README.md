@@ -47,12 +47,21 @@ This project analyzes pizza sales data using **Python (Google Colab)** and **Pow
 ---
 
  📸 Preview
-"C:\Users\HP\Downloads\WhatsApp Image 2025-10-22 at 1.51.52 PM.jpeg"
+<img width="1268" height="682" alt="image" src="https://github.com/user-attachments/assets/b502aa66-c77c-41aa-8d4b-ef6e041c9594" />
+
+
 
 ---
 
 🚀 Conclusion
 This project demonstrates how data from a pizza franchise can be turned into business intelligence using **Python for analysis** and **Power BI for visualization** — combining analytical depth with visual storytelling.
+
+Also Adding Tooltip helps to Understand insights of the Data easily & Simply.
+
+ 📸 Preview
+
+<img width="1272" height="683" alt="image" src="https://github.com/user-attachments/assets/3cd1d838-ff4b-4d85-bb43-f09ea4c97730" />
+
 
 ---
 
